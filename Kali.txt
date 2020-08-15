@@ -1,3 +1,5 @@
+[1]
+
 1. Date Command – 
 
 This command is generally used to display the system date and time. You can also set a custom date by typing the below command in your 
@@ -177,4 +179,15 @@ used to repeat commands by using the history command.
 In simple manner, you can run the history command by itself and will simply print out the bash history of current user to the screen as 
 shown below:
 
- 
+
+
+[2]
+Kali Linux Command Lines Part 2 – Working with Directories 
+
+The Commands:
+
+pwd:   the tool displays your current directory
+cd:    we can change our current directory with the cd command
+ls:    for listing the contents of current directory
+mkdir; for creating a new directory
+rmdir: for removing a directory
