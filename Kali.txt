@@ -191,3 +191,10 @@ cd:    we can change our current directory with the cd command
 ls:    for listing the contents of current directory
 mkdir; for creating a new directory
 rmdir: for removing a directory
+
+
+Symbols for Directories in Kali Linux:
+
+Sign '~' means Home Directory.
+Sign '/' means File System Directory
+For 'desktop folder' in Kali Linux, we write it as 'Desktop' (notice capital D here)
