@@ -198,3 +198,22 @@ Symbols for Directories in Kali Linux:
 Sign '~' means Home Directory.
 Sign '/' means File System Directory
 For 'desktop folder' in Kali Linux, we write it as 'Desktop' (notice capital D here)
+
+
+Executing the Commands:
+
+root@kali:~#
+means we're in the home home folder
+
+Write 'cd /'
+root@kali:~# cd /
+means we changed directory from ~ to /
+
+Write 'ls'
+root@kali:/# ls
+means it will list/show the content of / directory
+
+Make new folder 'test' in desktop. For that, execute following:
+root@kali:/# cd ~
+root@kali:~# cd Desktop
+root@kali:~/Desktop# mkdir test
