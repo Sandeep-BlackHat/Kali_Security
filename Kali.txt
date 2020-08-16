@@ -237,3 +237,14 @@ root@kali:~/Desktop# rmdir test
 Means we are deleting 'test' directory
 
 Well, that's the basics of working with directories in Kali Linux
+
+
+[3] For changing the directory from user to root!
+
+username@kali:$ sudo -su
+
+this will ask for password then, of the user account!
+
+Then, root@kali:# 
+
+will come, that is then, you are the root now!
