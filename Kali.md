@@ -1,5 +1,3 @@
-[1]
-
 1. Date Command – 
 
 This command is generally used to display the system date and time. You can also set a custom date by typing the below command in your 
