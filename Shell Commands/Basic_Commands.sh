@@ -173,26 +173,3 @@ Free command with -t option, will list the total line at the end.
 
 One of the extensively used command in Kali Linux is history command. The bash shell stores a history of commands entered, which can be 
 used to repeat commands by using the history command.
-
-In simple manner, you can run the history command by itself and will simply print out the bash history of current user to the screen as 
-shown below:
-
-
-[3] For changing the directory from user to root!
-
-username@kali:$ sudo -su
-
-this will ask for password then, of the user account!
-
-Then, root@kali:# 
-
-will come, that is then, you are the root now!
-
--- For changing root password:
-(In case that ur root is locked)
-
-root@kali:# passwd
-
-now you will be asked to set new password nd retype it and pressing enter will chnge your root directory password!
-
-now you can acess root directly from user login!
