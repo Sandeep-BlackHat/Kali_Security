@@ -1,6 +1,4 @@
    # How to apply $$ -> Scan Technique
-   ## nmap -$$ 'ip'
-      Example: nmap -sS 192.168.0.0/24
    
    <table>
     <tr>
@@ -36,3 +34,6 @@
       <td>FIN Scan</td>
     </tr>
   </table>
+
+   ## nmap -$$ 'ip'
+      Example: nmap -sS 192.168.0.0/24
