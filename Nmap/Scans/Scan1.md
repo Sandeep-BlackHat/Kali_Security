@@ -1,4 +1,4 @@
-# This is an example of a Nmap Scan: nmap -ns 192.168.**.** -T4 <Scan command>
+# This is an example of a Nmap Scan: nmap -ns 192.168.$$.$$ -T4 <Scan command>
 ## Credentials are hiiden for security
 
 Nmap scan report for 192.168.**.*
