@@ -9,36 +9,30 @@
       </tr>
     <tr>
       <td>-sS</td>
-      <td>O(n)</td>
+      <td>TCP SYN Scan *Stealth Scan*</td>
     </tr>
     <tr>
       <td>-sT</td>
-      <td>O(log n)</td>
-      <td>O(1)</td>
+      <td>TCP connection Port scan</td>
     </tr>
     <tr>
       <td>-sU</td>
-      <td>O(n)</td>
-      <td>O(1)</td>
+      <td>UDP port scan</td>
     </tr>
     <tr>
       <td>-sA</td>
-      <td>O(n)</td>
-      <td>O(n)</td>
+      <td>TCP ACK scan</td>
     </tr>
     <tr>
       <td>-sW</td>
-      <td>O(n^2)</td>
-      <td>O(1)</td>
+      <td>TCP window scan</td>
     </tr>
     <tr>
       <td>-sM</td>
-      <td>O(n^2) {Best Case -> O(n)}</td>
-      <td>O(1)</td>
+      <td>TCP Maimon Scan</td>
     </tr>
     <tr>
       <td>-sF</td>
-      <td>O(n^2) {Best Case -> O(n)}</td>
-      <td>O(1)</td>
+      <td>FIN Scan</td>
     </tr>
   </table>
