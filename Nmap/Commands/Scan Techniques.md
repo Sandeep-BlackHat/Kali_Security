@@ -4,36 +4,36 @@
       <td>Explaination</td>
       </tr>
     <tr>
-      <td>Linear Search</td>
+      <td>-sS</td>
       <td>O(n)</td>
     </tr>
     <tr>
-      <td>Binary Search</td>
+      <td>-sT</td>
       <td>O(log n)</td>
       <td>O(1)</td>
     </tr>
     <tr>
-      <td>Kadane's Algorithm</td>
+      <td>-sU</td>
       <td>O(n)</td>
       <td>O(1)</td>
     </tr>
     <tr>
-      <td>Shortest Distance to a Character</td>
+      <td>-sA</td>
       <td>O(n)</td>
       <td>O(n)</td>
     </tr>
     <tr>
-      <td>Selection Sort</td>
+      <td>-sW</td>
       <td>O(n^2)</td>
       <td>O(1)</td>
     </tr>
     <tr>
-      <td>Bubble Sort</td>
+      <td>-sM</td>
       <td>O(n^2) {Best Case -> O(n)}</td>
       <td>O(1)</td>
     </tr>
     <tr>
-      <td>Insertion Sort</td>
+      <td>-sF</td>
       <td>O(n^2) {Best Case -> O(n)}</td>
       <td>O(1)</td>
     </tr>
