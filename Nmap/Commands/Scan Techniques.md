@@ -1,5 +1,5 @@
    # How to apply $$ -> Scan Technique
-   ## nmap -$$ <ports> <ip>
+   ## nmap -$$ 'ip'
       Example: nmap -sS 192.168.0.0/24
    
    <table>
