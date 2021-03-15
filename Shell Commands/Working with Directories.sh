@@ -17,7 +17,7 @@ For 'desktop folder' in Kali Linux, we write it as 'Desktop' (notice capital D h
 Executing the Commands:
 
 root@kali:~#
-means we're in the home home folder
+means were in the home home folder
 
 Write 'cd /'
 root@kali:~# cd /
