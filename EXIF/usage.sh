@@ -1,2 +1,2 @@
 simple command to run and exif tools is:
-  exif <name of the file>
+  root@kali:/$ exif <name of the file>
